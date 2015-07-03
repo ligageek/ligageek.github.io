@@ -14,11 +14,12 @@ La comision de la ligageek es el organo regulador de la ligageek y sus funciones
 
 Al comité se integra un representante por equipo, se agrega a la directiva el representante del equipo sea nuevo o existente.
 
+- Una vez reservado no hay devolucion de dinero a equipos
+
 ### Comisión de investigación
 
 Se creará una comisión que investigara todas las acusaciones de jugadores no informáticos. Esta comisión tendrá la potestad de entrevistar a los jugadores
 
-- Una vez reservado no hay devolucion de dinero a equipos
 
 ## Infracciones y Sanciones
 
@@ -99,8 +100,6 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
 
 
 ## Premios
-
-Se estará recogiendo la cantidad de C$200(Doscientos córdobas) por equipo. Dinero con el cual se compraran los trofeos  para premiación al final de la liga. 
 
 - Habrá trofeos para Equipo Campeon y Goleador de la liga
 - Para la definicion del goleador se tomaran en cuenta solamente los goles en liga y se excluiran por tanto goles realizados en semifinales, copa, hexagonal y demas
