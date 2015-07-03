@@ -1,0 +1,12 @@
+# Site settings
+title: Liga Geek de Nicaragua
+email: comision@ligageek.com
+description: > # this means to ignore newlines until "baseurl:"
+    La liga de futbol de los informaticos
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ligageek.com" # the base hostname & protocol for your site
+twitter_username: ligageekni
+github_username:  ligageek
+
+# Build settings
+markdown: kramdown
