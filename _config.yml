@@ -2,7 +2,7 @@
 title: Liga Geek de Nicaragua
 email: comision@ligageek.com
 description: > # this means to ignore newlines until "baseurl:"
-    La liga de futbol de los informaticos
+    La liga de futbol Geek
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ligageek.com" # the base hostname & protocol for your site
 twitter_username: ligageeknica
