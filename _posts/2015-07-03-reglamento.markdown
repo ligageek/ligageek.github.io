@@ -76,6 +76,7 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
 - 10 minutos después de la hora de inicio del juego se levanta campo sino están al menos 4 jugadores de cada equipo. El  que no esté en la cancha pierde por forfeit
 - Si a un jugador le sacan Roja, 2 minutos después puede entrar otro jugador. 
 - 4 jugadores mínimo en el campo.
+- Cada equipo tiene el deber de llevar una nota arbitral para cada juego
 
 
 ## Equipos
