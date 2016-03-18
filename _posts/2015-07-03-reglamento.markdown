@@ -84,7 +84,7 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
 
 ### Incorporación de nuevos jugadores fuera de periodo de inscripción
 
-- Se permitirá la inscripción de nuevos jugadores a la liga, sin embargo estos jugadores deben anunciarse ante la comisión como mínimo con 3 días de anticipación a los juegos
+- Se permitirá la inscripción de nuevos jugadores a la liga, sin embargo estos jugadores deben anunciarse el dia Martes de cada semana pudiendo jugar hasta la siguiente semana, para esto deben presentar los avales correspondientes para ser analizados por la comisión.
 
 ## Pago de la cancha
  
