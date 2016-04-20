@@ -63,9 +63,22 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
   - Que algún miembro del comité lo conozca(La persona que lo conozca no debe ser del mismo equipo).
   - Perfil de linkedin.
   - Perfil de github. 
-  - Carné, título, etc. 
-  - Que este estudiando o trabajando (Tiene que estar activo).
+  - Carné de trabajo actual, 
+  - Carné de estudiante y comprobante de estudiante activo.
+  - Título universitario de carreras de IT. 
 
+### Período de inscripciones
+
+- Antes de iniciar la liga: En cualquier fecha hasta un máximo de una semana anterior al primer juego de liga.
+- Con la liga en curso: los dias martes de cada semana
+
+### Habilitación de jugadores inscritos
+- El jugador inscrito se dará por aceptado si:
+  - No hay ningún voto de desaprobación
+  - En caso de un voto de desaprobación el equipo fue capaz de demostrar la validez del jugador inscrito. Volver al primer punto. 
+- El jugador inscrito estará disponible para disputar juegos:
+  - Si se aprobó en la misma semana de inscripción: El Lunes de la siguiente semana después de ser inscrito.
+  - Si la aprobación se realizó en semana posterior: Inmediatamente después de ser aprobado.
 
 ## Juegos
 
@@ -110,9 +123,3 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
 - 2 Amarillas--- No Juega el siguiente partido
 - 5 Amarillas(No consecutivas)--- No juega el próximo partido.
 - Roja Directa --No juega los siguiente 2 partido de su equipo. 
-
-
-
-
-
-
