@@ -129,6 +129,10 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
 - 5 Amarillas(No consecutivas)--- No juega el próximo partido.
 - Roja Directa --No juega los siguiente 2 partidos de su equipo. 
 
+## Registro de datos
+
+- Los arbitros tomarán y enviarán los datos de los juegos, sin embargo es responsabilidad de cada uno de los equipos de llevar una copia del acta arbitral. La anotación del arbitro (goles, tarjetas, marcador) es definitiva a menos que haya un error flagrante y ambos equipos lleguen a un consenso sobre la corrección del dato
+
 ## Cambios en el reglamento
 
 - Todos los puntos definidos en este documento están en revisión permanente por la [comisión de la Liga Geek ®](comision@ligageek.com), por tanto no necesariamente reflejan las últimas disposiciones adoptadas.
