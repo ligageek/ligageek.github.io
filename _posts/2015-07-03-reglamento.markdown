@@ -91,13 +91,8 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
 - 4 jugadores mínimo en el campo.
 - Cada equipo tiene el deber de llevar una [nota arbitral](/assets/nota_arbitral.pdf) para cada juego
 
-
 ## Equipos
 - Los equipos estarán conformados por un máximo de 12 jugadores
-
-### Incorporación de nuevos jugadores fuera de periodo de inscripción
-
-- Se permitirá la inscripción de nuevos jugadores a la liga, sin embargo estos jugadores deben anunciarse el dia Martes de cada semana pudiendo jugar hasta la siguiente semana, para esto deben presentar los avales correspondientes para ser analizados por la comisión.
 
 ## Pago de la cancha
  
@@ -108,18 +103,32 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
 ## Formato de la Liga 
 
 - Todos VS Todos
-- Se jugará 1  vuelta. 
-- Se jugará semi
-- Se jugará  una Final.
-
+  - Se jugará 1 solo juego cotra cada equipo. 
+- Octavos de final (1 juego)
+  - Las llaves estarán definidas por la posición ocupada en el torneo regular, quedando de la siguiente manera:
+    - A) 1ro vs 8vo
+    - B) 4to vs 5to
+    - C) 2do vs 7mo
+    - D) 3ro vs 6to
+- Semifinales (1 juego)
+  - Ganador de A) vs Ganador de B)
+  - Ganador de C) vs Ganador de D)
+- Gran Final (1 juego)
 
 ## Premios
 
-- Habrá trofeos para Equipo Campeon y Goleador de la liga
-- Para la definicion del goleador se tomaran en cuenta solamente los goles en liga y se excluiran por tanto goles realizados en semifinales, copa, hexagonal y demas
+- Trofeo para Equipo Campeon
+- Trofeo para el Goleador de la liga
+  - Para la definicion del goleador se tomaran en cuenta solamente los goles en liga y se excluiran por tanto goles realizados en postemporada u otros torneos(copa geek). Solo se tomarán en cuenta los datos registrados en http://ligageeksnica.leaguerepublic.com/
+- Medallas para los jugadores del equipo campeón
+- Opcionalmente podría haber otros premios, sujeto a la disponibilidad monetaria.
 
 ## Tarjetas
 
 - 2 Amarillas--- No Juega el siguiente partido
 - 5 Amarillas(No consecutivas)--- No juega el próximo partido.
-- Roja Directa --No juega los siguiente 2 partido de su equipo. 
+- Roja Directa --No juega los siguiente 2 partidos de su equipo. 
+
+## Cambios en el reglamento
+
+- Todos los puntos definidos en este documento están en revisión permanente por la [comisión de la Liga Geek ®](comision@ligageek.com), por tanto no necesariamente reflejan las últimas disposiciones adoptadas.
