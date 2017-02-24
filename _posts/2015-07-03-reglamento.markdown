@@ -135,4 +135,4 @@ Se creará una comisión que investigara todas las acusaciones de jugadores no i
 
 ## Cambios en el reglamento
 
-- Todos los puntos definidos en este documento están en revisión permanente por la [comisión de la Liga Geek ®](comision@ligageek.com), por tanto no necesariamente reflejan las últimas disposiciones adoptadas.
+- Todos los puntos definidos en este documento están en revisión permanente por la [comisión de la Liga Geek ®](mailto:comision@ligageek.com), por tanto no necesariamente reflejan las últimas disposiciones adoptadas.
